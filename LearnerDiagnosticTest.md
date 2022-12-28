@@ -9,3 +9,6 @@ Python, Typescripts, HTML, CSS, Unit tests, E2E test using Webdriver.
 
 **Duration:**
 6 months
+
+**Project Link**
+[Google Summer of Code 2022](https://summerofcode.withgoogle.com/archive/2022/projects/4tEjoeF5)
